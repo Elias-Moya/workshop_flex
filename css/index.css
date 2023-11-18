@@ -1,0 +1,16 @@
+/* EXTERNALS */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,700;1,400&display=swap");
+
+/* MISCELLANEOUS */
+
+@import url('./misc/normalize.css');
+@import url('./misc/variables.css');
+
+/* PARTIALS */
+
+@import url('./partials/headers.css');
+
+/* PARTIALS */
+
+@import url('./partials/headers.css');
